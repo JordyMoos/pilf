@@ -1,5 +1,12 @@
 module Pilf exposing (flip, pilf)
 
+{-
+
+@docs flip
+@docs pilf
+
+-}
+
 
 {-| Flip the order of the first two arguments to a function. -}
 flip : (a -> b -> c) -> (b -> a -> c)
