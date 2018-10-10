@@ -1,6 +1,6 @@
 module Pilf exposing (flip, pilf)
 
-{-
+{-| This library has the awesome function `flip` and a functionally equal function `pilf` for awesomeness purposes
 
 @docs flip
 @docs pilf
