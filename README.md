@@ -1,6 +1,6 @@
 # Pilf. Like `flip` from the good old days
 
-[![Build Status](https://travis-ci.org/jordymoos/elm-pilf.svg?branch=master)](https://travis-ci.org/jordymoos/elm-pilf)
+[![Build Status](https://travis-ci.org/jordymoos/pilf.svg?branch=master)](https://travis-ci.org/jordymoos/pilf)
 
 The one library to rule them all
 
